@@ -1,1 +1,2 @@
-Iran&&detour=warp://162.159.195.44:3476?ifp=10-20&ifps=20-60&ifp=5-10#Germany
+warp://162.159.192.165:1070?ifp=10-20&ifps=20-60&ifp=5-10#Iran&&detour=warp://162.159.192.165:1070?ifp=10-20&ifps=20-60&ifp=5-10#Germany
+warp://162.159.192.58:1010?ifp=10-20&ifps=20-60&ifp=5-10#Iran&&detour=warp://162.159.192.58:1010?ifp=10-20&ifps=20-60&ifp=5-10#Germany
